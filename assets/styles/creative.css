@@ -1,0 +1,158 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Thin configuration (mobile)
+*/
+
+*{
+   margin:0;
+   padding:0;
+}
+ 
+body{
+   	text-align:center; /*For IE6 Shenanigans*/
+   	padding: 0;
+	background-color: #f9f9f9;
+	margin: 0 auto;
+	max-width: 960px;
+	font-family: 'Lato', sans-serif;
+
+}
+ 
+#wrapper{
+	padding: 5% 0 0 0;
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	background-color: #f9f9f9;
+	font-size: 16px;
+	overflow: hidden;
+	font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+
+	#wrapper .header{
+		height: auto;
+		width: 79.16666666666666%; /* 760 / 960 */
+		max-width: 760px;
+		margin: 0 auto;
+	}
+
+	#wrapper .header img.main-logo{
+		float: left;
+		width: 20.9375%;
+	}
+
+	#wrapper .header img.cookie{
+		float: right;
+		width: 11.145833333333334%;
+	}
+
+	#wrapper .header h1{
+		text-indent: -9999px;
+	}
+
+	#creative .projects {
+		width: 79.16666666666666%; /* 760 / 960 */
+		max-width: 760px;
+		text-align: center;
+		margin: 5% auto;
+	}
+
+	#creative .projects h2{
+		display: none;
+	}
+  
+	#creative .projects #laings img{
+		float: left;
+		margin: 0 1.9736842105263157% 0 0;
+		width: 31.973684210526315%; /* 243 / 760 */
+	}
+
+	#creative .projects #savings img{
+		float: left;
+		margin: 0 1.9736842105263157% 0 0;
+		width: 31.973684210526315%; /* 243 / 760 */
+	}
+
+	#creative .projects #boutique img{
+		float: right;
+		width: 31.973684210526315%; /* 243 / 760 */
+		margin: 0;
+	}
+
+	#creative .projects #reason img{
+		float: left;
+		margin: 1.9736842105263157%  1.9736842105263157% 0 0;
+		width: 66.05263157894737%; /* 502 / 760 */			
+	}
+
+	#creative .projects #real-sale img{
+		float: left;
+		margin: 1.9736842105263157%  1.9736842105263157% 0 0;
+		width: 31.973684210526315%; /* 243 / 760 */
+	}
+
+
+	#creative .projects #about img{
+		float: left;
+		margin: 1.9736842105263157%  1.9736842105263157% 0 0;
+		width: 31.973684210526315%; /* 243 / 760 */
+	}
+
+	#creative .projects #contact img{
+		float: right;
+		margin: 1.9736842105263157%  0 0 0;
+		width: 31.973684210526315%; /* 243 / 760 */
+	}
+
+	#creative .projects #bgw img{
+		clear: both;
+		float: left;
+		text-align: center;
+		margin: 1.9736842105263157%  0 1.9736842105263157%  0;
+		width: 100%;
+	}
+
+	#creative .projects #robert-stewart img{
+		float: left;
+		margin: 0 1.9736842105263157% 0 0;
+		width: 31.973684210526315%; /* 243 / 760 */
+
+	}
+
+	#creative .projects #dazed img{
+		float: right;
+		margin: 0;
+		width: 66.05263157894737%; /* 502 / 760 */		
+	}
+
+	#creative #footer{
+		clear: both;
+		margin: 2.0833333333333332% auto;
+		width: 79.16666666666666%; /* 760 / 960 */
+		max-width: 760px;
+	}
+
+	#creative #footer img{
+		width: 6.973684210526315%; 
+		height: auto;
+		float: left;
+		margin: 1.9736842105263157%;
+	}
+
+	#creative #footer p{
+		width: 40%;
+		float: right;
+		padding: 3.9473684210526314% 0;
+		font-size: 80%;
+		text-align: right;
+	}
+
+
+
+
+
+
+
